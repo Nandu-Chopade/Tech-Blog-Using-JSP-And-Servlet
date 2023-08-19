@@ -1,0 +1,58 @@
+# NetBeans IDE
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+test/
+.nb-gradle/
+
+build.xml
+
+# Compiled class files
+*.class
+
+# Compiled Java packages
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Logs and other generated files
+*.log
+*.log.*
+*.log.[0-9]*
+
+# Other generated files
+*.bak
+*.tmp
+*.swp
+*~
+
+# Mac OS X
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
